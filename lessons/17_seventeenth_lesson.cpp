@@ -55,4 +55,4 @@ int main() {
     house.get_info();
 
     return 0;
-}
+} 
